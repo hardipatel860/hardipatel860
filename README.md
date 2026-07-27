@@ -40,7 +40,7 @@
 
 <br/>
 
-I'm a Computer Science undergraduate engineering software systems at the intersection of **applied artificial intelligence** and **production-grade full stack development**. My work spans building autonomous agentic AI pipelines, designing computer vision architectures from first principles, and engineering cloud-native data workflows — all with a product mindset rather than a purely academic one.
+I'm a Computer Science undergraduate engineering software systems at the intersection of **applied artificial intelligence** and **production-grade Software development**. My work spans building autonomous agentic AI pipelines, designing computer vision architectures from first principles, and engineering cloud-native data workflows — all with a product mindset rather than a purely academic one.
 
 I care about systems that actually ship: code that is reproducible, explainable, and resilient to real-world edge cases. My background in **compiler design and formal language theory** shapes how I think about correctness, and my hands-on AI/ML projects shape how I think about scale, bias, and interpretability.
 
@@ -59,7 +59,7 @@ Engineer:
 | Opportunity | Status |
 |:---|:---:|
 | AI/ML Engineering Internships | ✅ Open |
-| Full Stack Development Roles | ✅ Open |
+| Software Development Roles | ✅ Open |
 | Open Source Collaboration | ✅ Open |
 | Research Collaborations (Agentic AI / CV) | ✅ Open |
 
@@ -83,10 +83,6 @@ Engineer:
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,mongodb,mysql,postgres&theme=dark" />
 
-**Cloud, DevOps & Tooling**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,vscode,postman&theme=dark" />
-
 </div>
 
 ---
@@ -99,7 +95,7 @@ Engineer:
 |:---|:---:|:---|
 | **Agentic AI Systems** | ⭐⭐⭐⭐⭐ | LangChain-based agents, tool-calling pipelines, Anthropic & Gemini API integration |
 | **Computer Vision** | ⭐⭐⭐⭐☆ | Custom GAP-CNN architectures, ensemble learning, Bayesian bias correction |
-| **NLP & LLM Integration** | ⭐⭐⭐⭐☆ | Prompt engineering, web-scraping agents, structured output generation |
+| **LLM Integration** | ⭐⭐⭐⭐☆ | Prompt engineering, web-scraping agents, structured output generation |
 | **Classical Machine Learning** | ⭐⭐⭐⭐☆ | Naive Bayes, Decision Trees, Random Forest, Gradient Boosting, KNN, Regression |
 | **Deep Learning Fundamentals** | ⭐⭐⭐⭐☆ | Neural networks, backpropagation, CNN design from scratch |
 | **Big Data Processing** | ⭐⭐⭐☆☆ | PySpark pipelines for large-scale log & inventory data |
