@@ -1,276 +1,447 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Hardi%20Patel&fontSize=70&fontColor=C9A7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Hardi%20Patel&fontSize=70&fontColor=C9A7FF&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%7C%20Frontend%20Engineer%20%7C%20Web%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=B48CFF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Agentic+AI+Systems;Full+Stack+%2B+Cloud+%2B+Machine+Learning;Turning+Research+into+Production+Code;Compiler+Design+%7C+Distributed+Systems+%7C+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=B48CFF&center=true&vCenter=true&width=700&lines=Designing+Clean+%26+User-Friendly+Interfaces;Building+Responsive+Frontend+Experiences;Turning+Ideas+into+Interactive+Websites;UI%2FUX+%7C+Frontend+%7C+Web+Development" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Semester](https://img.shields.io/badge/Semester-7th-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)
-![University](https://img.shields.io/badge/Navrachna%20University-CSE-4B0082?style=for-the-badge&logo=studyverse&logoColor=white)
-![Location](https://img.shields.io/badge/Based%20in-Vadodara%2C%20India-5D3FD3?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/hardipatel860)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardi-patel-059a9927a)
-[![Email](https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardipatel860@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hardipatel860)
+![Semester](https://img.shields.io/badge/Semester-7th-6A0DAD?style=for-the-badge)
+![University](https://img.shields.io/badge/Navrachna%20University-CSE-4B0082?style=for-the-badge)
+![Location](https://img.shields.io/badge/Vadodara-India-5D3FD3?style=for-the-badge)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hardipatel860&color=8a2be2&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/hardipatel860?color=6a0dad&style=flat-square&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/hardipatel860?color=b48cff&style=flat-square&label=TOTAL+STARS&logo=github)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge\&logo=vercel\&logoColor=white)](https://github.com/hardipatel860)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hardi-patel-059a9927a)
+[![Email](https://img.shields.io/badge/Email-9370DB?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hardipatel860@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hardipatel860)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hardipatel860\&color=8a2be2\&style=flat-square\&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/hardipatel860?color=6a0dad\&style=flat-square\&label=FOLLOWERS\&logo=github)
 
 </div>
 
 ---
 
-## 🧬 About Me
+## 👋 About Me
 
 <div align="center">
-<img src="https://img.shields.io/badge/-Software%20Engineering-8A2BE2?style=flat-square" />
-<img src="https://img.shields.io/badge/-Applied%20AI%2FML-6A0DAD?style=flat-square" />
-<img src="https://img.shields.io/badge/-Full%20Stack%20Development-4B0082?style=flat-square" />
-<img src="https://img.shields.io/badge/-Cloud%20%26%20Systems-5D3FD3?style=flat-square" />
+
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/Frontend%20Engineering-6A0DAD?style=flat-square" />
+<img src="https://img.shields.io/badge/Web%20Development-4B0082?style=flat-square" />
+<img src="https://img.shields.io/badge/Creative%20Problem%20Solving-5D3FD3?style=flat-square" />
+
 </div>
 
 <br/>
 
-I'm a Computer Science undergraduate engineering software systems at the intersection of **applied artificial intelligence** and **production-grade Software development**. My work spans building autonomous agentic AI pipelines, designing computer vision architectures from first principles, and engineering cloud-native data workflows — all with a product mindset rather than a purely academic one.
+I'm a **Computer Science Engineering student** with a strong interest in **UI/UX Design and Frontend Engineering**.
 
-I care about systems that actually ship: code that is reproducible, explainable, and resilient to real-world edge cases. My background in **compiler design and formal language theory** shapes how I think about correctness, and my hands-on AI/ML projects shape how I think about scale, bias, and interpretability.
+I enjoy creating digital experiences that are **simple, visually appealing, responsive, accessible, and easy to use**. My interest lies at the intersection of **design and development** — understanding how users interact with a product and then turning those ideas into functional interfaces.
+
+I enjoy working on the complete frontend journey:
+
+**Idea → User Research → Wireframe → UI Design → Prototype → Development → Responsive Website**
+
+I'm particularly interested in building modern web interfaces where **good design meets clean code**.
 
 ```yaml
-Engineer:
-  role: "AI/ML Engineer & Full Stack Developer"
-  focus: "Agentic Systems, Computer Vision, Cloud-Native Applications"
-  philosophy: "Ship systems that reason, scale, and explain themselves"
-  currently: "Semester 7 — CSE, Navrachna University"
+name: "Hardi Patel"
+
+role:
+  - "UI/UX Designer"
+  - "Frontend Engineer"
+  - "Web Developer"
+
+interests:
+  - "User Interface Design"
+  - "User Experience"
+  - "Frontend Development"
+  - "Responsive Web Design"
+  - "Design Systems"
+  - "Interactive Web Experiences"
+
+currently:
+  - "Improving UI/UX Design skills"
+  - "Building frontend projects"
+  - "Learning modern web technologies"
+  - "Exploring design-to-code workflows"
 ```
 
-### 🎯 Open To
+---
+
+## 🎨 What I Do
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🖌️ UI/UX Design
+
+* User-centered interface design
+* Wireframing
+* Prototyping
+* Visual hierarchy
+* Typography & spacing
+* Color systems
+* Design consistency
+* Responsive design
+* Usability principles
+* Accessibility fundamentals
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Frontend Engineering
+
+* Responsive websites
+* Interactive interfaces
+* Component-based development
+* Clean HTML structure
+* Modern CSS layouts
+* JavaScript interactions
+* React-based interfaces
+* Bootstrap development
+* API integration
+* Mobile-first development
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Design
 
 <div align="center">
 
-| Opportunity | Status |
-|:---|:---:|
-| AI/ML Engineering Internships | ✅ Open |
-| Software Development Roles | ✅ Open |
-| Open Source Collaboration | ✅ Open |
-| Research Collaborations (Agentic AI / CV) | ✅ Open |
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`Figma` `Wireframing` `Prototyping` `UI Design` `UX Design` `Design Systems` `Responsive Design`
 
 </div>
 
 ---
 
-## ⚙️ Tech Stack
+### 🌐 Frontend
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,vite&theme=dark" />
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark" />
+</div>
 
-**Backend & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,mongodb,mysql,postgres&theme=dark" />
+
+<div align="center">
+
+`HTML5` `CSS3` `JavaScript` `React` `Bootstrap` `Tailwind CSS` `Vite`
 
 </div>
 
 ---
 
-## 🧠 AI / ML Expertise
+### ⚙️ Backend & Database
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| **Agentic AI Systems** | ⭐⭐⭐⭐⭐ | LangChain-based agents, tool-calling pipelines, Anthropic & Gemini API integration |
-| **Computer Vision** | ⭐⭐⭐⭐☆ | Custom GAP-CNN architectures, ensemble learning, Bayesian bias correction |
-| **LLM Integration** | ⭐⭐⭐⭐☆ | Prompt engineering, web-scraping agents, structured output generation |
-| **Classical Machine Learning** | ⭐⭐⭐⭐☆ | Naive Bayes, Decision Trees, Random Forest, Gradient Boosting, KNN, Regression |
-| **Deep Learning Fundamentals** | ⭐⭐⭐⭐☆ | Neural networks, backpropagation, CNN design from scratch |
-| **Big Data Processing** | ⭐⭐⭐☆☆ | PySpark pipelines for large-scale log & inventory data |
-| **Statistical Modeling** | ⭐⭐⭐☆☆ | Bayesian priors, probability calibration, experimental design |
+<img src="https://skillicons.dev/icons?i=nodejs,flask,mysql,mongodb&theme=dark" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+`Node.js` `Flask` `MySQL` `MongoDB`
+
+</div>
+
+---
+
+### 🤖 Additional Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`Python` `C++` `Git` `GitHub` `VS Code`
+
+</div>
+
+---
+
+## 🎯 My Design & Development Process
+
+<div align="center">
+
+```text
+        💡 IDEA
+           ↓
+    👥 UNDERSTAND USERS
+           ↓
+      📝 WIREFRAME
+           ↓
+      🎨 UI DESIGN
+           ↓
+     🔄 PROTOTYPE
+           ↓
+    💻 DEVELOPMENT
+           ↓
+    📱 RESPONSIVE TEST
+           ↓
+      🚀 DEPLOYMENT
+```
+
+</div>
+
+I believe a good frontend is not only about making a page look beautiful.
+
+It should also be:
+
+**Simple • Usable • Responsive • Accessible • Consistent • Fast**
 
 ---
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>🧾 INVENTRA — Big Data AI Inventory System</b></summary>
-<br/>
+### ☕ Starbucks-Inspired Website
 
-An AI-powered Big Data inventory management system built to eliminate stock inefficiencies at scale. Combines distributed data processing with deep learning-based demand forecasting and rule-based NLP for external signal detection.
+A responsive frontend project inspired by modern coffee-brand websites.
 
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | Python, PySpark, PyTorch, NLP |
-| **Scale** | Processes 1GB+ of inventory/log data |
-| **Performance** | LSTM-based seasonal demand forecasting |
-| **Security** | Rule-based validation on ingested data streams |
-| **Impact** | Reduces stockouts and overstock through predictive demand modeling |
-| **Repository** | [INVENTRA-Big-Data-AI-Inventory-System](https://github.com/hardipatel860/INVENTRA-Big-Data-AI-Inventory-System) |
+**Focus:**
 
-The system ingests high-volume operational logs through PySpark, feeds normalized time-series data into a PyTorch LSTM forecasting model, and cross-references market signals via lightweight NLP news scanning — closing the loop between external demand shocks and internal stock planning.
+* UI design
+* Responsive layouts
+* Navigation design
+* Product presentation
+* Interactive sections
+* Modern visual styling
 
-</details>
+**Tech Stack:**
 
-<details>
-<summary><b>🅿️ ParkNova — Advanced Parking System</b></summary>
-<br/>
+`HTML` `CSS` `JavaScript` `Bootstrap`
 
-An AI-powered smart parking system that detects available parking spaces in real time and automates vehicle entry/exit through number plate recognition.
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | Python, Computer Vision, OCR/ANPR |
-| **Scale** | Real-time multi-slot detection |
-| **Performance** | Live space availability inference |
-| **Security** | Automated, contactless entry/exit validation |
-| **Impact** | Reduces congestion and manual parking overhead |
-| **Repository** | [ParkNova_Advanced_Parking_System](https://github.com/hardipatel860/ParkNova_Advanced_Parking_System) |
-
-Real-time camera feeds are processed to detect open/occupied slots, while an automatic number-plate recognition pipeline manages vehicle entry and exit — removing manual intervention from the parking workflow entirely.
-
-</details>
-
-<details>
-<summary><b>🕵️ Secure Vision — Missing Children Detection & Tracking</b></summary>
-<br/>
-
-An AI-powered facial recognition system that scans surveillance camera feeds to help locate missing children from a single uploaded photo.
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | Python, HTML, Facial Recognition |
-| **Scale** | Multi-camera surveillance integration |
-| **Performance** | Real-time facial match inference |
-| **Security** | Controlled photo-upload verification flow |
-| **Impact** | Assists rapid identification in child-safety scenarios |
-| **Repository** | [Secure_vision](https://github.com/hardipatel860/Secure_vision) |
-
-Given an uploaded reference photo, the system continuously matches faces against live camera streams, flagging high-confidence matches to accelerate search and recovery efforts.
-
-</details>
-
-<details>
-<summary><b>🥘 Leftover Food Recipe Agent</b></summary>
-<br/>
-
-An agentic AI system that recommends recipes from leftover ingredients, implemented across two independent stacks to compare architectures and providers.
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | HTML + Anthropic API (browser-based) · Python + LangChain + Gemini API (CLI) |
-| **Scale** | Single-user interactive agent, extensible to batch mode |
-| **Performance** | Sub-second ingredient-to-recipe reasoning |
-| **Security** | API key isolation, quota-aware request handling |
-| **Impact** | Reduces food waste through intelligent recipe suggestion |
-| **Repository** | Available on request |
-
-Built twice by design — once as a zero-dependency browser tool calling the Anthropic API directly, and once as a LangChain-orchestrated CLI agent using Gemini — to explore trade-offs between lightweight client-side agents and framework-driven orchestration, including handling real-world API quota constraints on Windows.
-
-</details>
-
-<details>
-<summary><b>🥗 Indian Vegetable Classifier — Custom GAP-CNN</b></summary>
-<br/>
-
-A computer vision system classifying five local Indian vegetables using a custom-designed Global Average Pooling CNN, enhanced with ensemble learning and Bayesian bias correction.
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | Python, PyTorch/TensorFlow, Custom CNN |
-| **Scale** | 5-class classification (Green Chilli, Ladies Finger, Pointed Gourd, Ivy Gourd, Peas) |
-| **Performance** | Ensemble strategy improves classification robustness |
-| **Security** | N/A — research/academic model |
-| **Impact** | Demonstrates bias-aware model calibration for imbalanced visual classes |
-| **Repository** | Available on request |
-
-The architecture applies a Bayesian Prior filter with a calibrated 15% penalty on the Ivy Gourd class to correct systematic over-prediction, illustrated through interactive SVG diagrams and a live probability-slider demo built for professor-level presentation.
-
-</details>
+🔗 **Repository:** [Starbucks-Inspired Website](https://github.com/hardipatel860)
 
 ---
 
-## 💼 Experience
+### 🛒 INVENTRA — Retail Analytics & Inventory Intelligence
 
-**AI/ML & Full Stack Project Engineer** · *Academic & Independent Projects*
-`2024 — Present`
+A modern inventory management concept designed to combine **business intelligence, analytics, and user-friendly dashboards**.
 
-Designing and shipping end-to-end AI systems spanning computer vision, agentic pipelines, and cloud-native data workflows as part of coursework, labs, and independent research.
+The project focuses on presenting complex inventory information through a clear and understandable interface.
 
-- Architected a custom GAP-CNN with ensemble learning and Bayesian bias correction for vegetable classification
-- Built dual-stack agentic recipe recommendation systems using Anthropic and Gemini APIs
-- Engineered a streaming log analytics pipeline on AWS (Kinesis Firehose, OpenSearch, Lambda, CloudWatch)
-- Implemented a full compiler front-to-back-end pipeline: lexical analysis through code generation and optimization
+**UI/UX Focus:**
+
+* Dashboard design
+* Data visualization
+* Information hierarchy
+* User-friendly navigation
+* Business analytics interface
+* Low-stock alerts
+* Predictive insights
+
+**Tech Stack:**
+
+`HTML` `CSS` `JavaScript` `Python` `AI/ML`
+
+🔗 **Repository:** [INVENTRA](https://github.com/hardipatel860/INVENTRA-Big-Data-AI-Inventory-System)
+
+---
+
+### 🅿️ ParkNova — Smart Parking System
+
+A smart parking management system designed to simplify the parking experience using **computer vision, automation, and a user-friendly interface**.
+
+**UI/UX Focus:**
+
+* Parking dashboard
+* Slot availability visualization
+* Vehicle information
+* Digital payment flow
+* User interaction
+* Real-time status display
+
+**Technology:**
+
+`Python` `OpenCV` `Flask` `MySQL` `Arduino`
+
+🔗 **Repository:** [ParkNova](https://github.com/hardipatel860/ParkNova_Advanced_Parking_System)
+
+---
+
+### 🕵️ Secure Vision
+
+An AI-based missing-person identification concept with a focus on creating a straightforward workflow for uploading information and reviewing potential matches.
+
+**UI/UX Focus:**
+
+* Simple upload interface
+* Clear information hierarchy
+* Search workflow
+* Results presentation
+* Alert interface
+
+**Technology:**
+
+`Python` `HTML` `Computer Vision`
+
+🔗 **Repository:** [Secure Vision](https://github.com/hardipatel860/Secure_vision)
+
+---
+
+## 📐 UI/UX Skills
 
 <div align="center">
 
-`Python` `PyTorch` `LangChain` `AWS` `MongoDB` `React` `Compiler Design` `Agentic AI`
+| Skill                | Focus                              |
+| :------------------- | :--------------------------------- |
+| 🎨 Visual Design     | Color, Typography, Spacing, Layout |
+| 👤 User Experience   | User Flows, Usability, Interaction |
+| 📝 Wireframing       | Low & High Fidelity Wireframes     |
+| 🔄 Prototyping       | Interactive Prototypes             |
+| 📱 Responsive Design | Desktop, Tablet & Mobile           |
+| ♿ Accessibility      | Accessible & Inclusive Interfaces  |
+| 🧩 Design Systems    | Components & Design Consistency    |
+| 🔍 Usability         | Simple & Intuitive Experiences     |
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 💻 Frontend Skills
 
 <div align="center">
 
-| Recognition | Details |
-|:---|:---|
-| Agentic AI Lab — Applied Project Delivery | Designed and deployed multi-stack recipe-recommendation agents |
-| Compiler Design Deep Study | Full-pipeline mastery: lexical → parsing → codegen → optimization |
-| AWS Hands-On Lab Completion | Streaming log analytics with Kinesis, OpenSearch & Lambda |
-| Computer Vision Research Presentation | Professor-level technical presentation with interactive demos |
+| Technology   | What I Use It For                   |
+| :----------- | :---------------------------------- |
+| HTML5        | Semantic website structure          |
+| CSS3         | Layout, styling & responsive design |
+| JavaScript   | Interactions & dynamic behavior     |
+| Bootstrap    | Rapid responsive development        |
+| React        | Component-based interfaces          |
+| Tailwind CSS | Utility-first styling               |
+| Git & GitHub | Version control & collaboration     |
 
 </div>
 
 ---
 
-## 📜 Certifications
+## 🧠 My Design Philosophy
+
+> **"Good design is not just about how a product looks — it's about how easily people can use it."**
+
+I try to keep my interfaces:
+
+```text
+✨ Visually Clean
+      +
+🎯 Purpose Driven
+      +
+👤 User Focused
+      +
+📱 Responsive
+      +
+♿ Accessible
+      +
+💻 Well Engineered
+```
+
+My goal is to create experiences where users don't have to think too much about **how to use the interface** — the design should guide them naturally.
+
+---
+
+## 📚 Currently Learning
+
+```yaml
+UI_UX:
+  - Advanced Figma
+  - Design Systems
+  - UX Research
+  - User Flows
+  - Prototyping
+  - Accessibility
+  - Usability Testing
+
+Frontend:
+  - Advanced JavaScript
+  - React
+  - Component Architecture
+  - API Integration
+  - Responsive Design
+  - Performance Optimization
+  - Modern CSS
+
+Exploring:
+  - Design-to-Code workflows
+  - AI-assisted UI design
+  - Micro-interactions
+  - Motion design
+  - Modern web interfaces
+```
+
+---
+
+## 🎯 Current Focus
 
 <div align="center">
 
-**AWS**
-<br/>
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Track-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+### 🎨 Designing Better Interfaces
 
-**Oracle**
-<br/>
-![Oracle](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+Learning how to create interfaces that are visually appealing while keeping usability at the center.
 
-**NPTEL**
-<br/>
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified%20Coursework-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white)
+### 💻 Becoming a Stronger Frontend Engineer
 
-**Cisco**
-<br/>
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+Building responsive and interactive websites using modern frontend technologies.
+
+### 🔗 Connecting Design With Code
+
+Turning Figma concepts and UI ideas into real, functional web experiences.
+
+### 🚀 Building Real Projects
+
+Creating projects that demonstrate both **design thinking and frontend development skills**.
 
 </div>
 
 ---
 
-## 💻 Coding Profiles
+## 💼 Open To
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5D3FD3?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-8A2BE2?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+| Opportunity                         | Status |
+| :---------------------------------- | :----: |
+| 🎨 UI/UX Design Internships         | ✅ Open |
+| 💻 Frontend Development Internships | ✅ Open |
+| 🌐 Web Development Projects         | ✅ Open |
+| 🤝 Open Source Collaboration        | ✅ Open |
+| 🎯 UI/UX Projects                   | ✅ Open |
+| 🚀 Student / Startup Projects       | ✅ Open |
 
 </div>
 
@@ -281,6 +452,7 @@ Designing and shipping end-to-end AI systems spanning computer vision, agentic p
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=hardipatel860&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B48CFF&icon_color=8A2BE2&text_color=C9D1D9" width="49%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardipatel860&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=B48CFF&currStreakLabel=B48CFF" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardipatel860&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B48CFF&text_color=C9D1D9" width="49%"/>
@@ -289,7 +461,7 @@ Designing and shipping end-to-end AI systems spanning computer vision, agentic p
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -319,41 +491,17 @@ Designing and shipping end-to-end AI systems spanning computer vision, agentic p
 
 ---
 
-## 🎯 Current Focus
+## 📬 Let's Connect
 
-```yaml
-current_focus:
-  learning:
-    - Advanced agentic AI architectures & multi-agent orchestration
-    - Compiler back-end optimization techniques
-    - Distributed systems & cloud-native architecture
-
-  building:
-    - Agentic recipe recommendation systems (Anthropic + Gemini)
-    - Computer vision models with bias-aware calibration
-    - Cloud-based streaming analytics pipelines
-
-  exploring:
-    - Retrieval-augmented generation for domain-specific agents
-    - Formal verification techniques from compiler theory
-    - Scalable MLOps practices for production AI
-
-  open_to:
-    - AI/ML Engineering Internships
-    - Full Stack Development Roles
-    - Open Source Collaboration
-```
-
----
-
-## 📬 Connect
+I'm always interested in connecting with designers, developers, students, and people building interesting digital products.
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardipatel860@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardi-patel-059a9927a)
-[![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hardipatel860)
-[![Portfolio](https://img.shields.io/badge/Portfolio-5D3FD3?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/hardipatel860)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hardi-patel-059a9927a)
+
+[![Email](https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hardipatel860@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hardipatel860)
 
 </div>
 
@@ -361,7 +509,11 @@ current_focus:
 
 <div align="center">
 
-*"Systems that reason are only as strong as the engineering discipline behind them."*
+### 🎨 Design with purpose. 💻 Build with passion. 🚀 Create with impact.
+
+<br/>
+
+*"Turning ideas into experiences, and designs into reality."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
 
