@@ -481,16 +481,6 @@ Creating projects that demonstrate both **design thinking and frontend developme
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hardipatel860/hardipatel860/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 I'm always interested in connecting with designers, developers, students, and people building interesting digital products.
