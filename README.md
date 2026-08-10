@@ -245,7 +245,7 @@ A responsive frontend project inspired by modern coffee-brand websites.
 
 `HTML` `CSS` `JavaScript` `Bootstrap`
 
-🔗 **Repository:** [Starbucks-Inspired Website](https://github.com/hardipatel860)
+🔗 **Repository:** [Starbucks-Inspired Website](https://github.com/hardipatel860/Starbucks_Website)
 
 ---
 
